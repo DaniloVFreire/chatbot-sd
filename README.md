@@ -31,3 +31,5 @@ Para tornar o chatbot acessível aos usuários, é necessário ir para a categor
 Para acessar o chatbot basta abrir o link a seguir
 https://bot.dialogflow.com/7d88049a-4dd2-4787-b636-6752d1a195ec
 
+https://youtube.com/shorts/3XRRaxBJgv8?feature=share
+
